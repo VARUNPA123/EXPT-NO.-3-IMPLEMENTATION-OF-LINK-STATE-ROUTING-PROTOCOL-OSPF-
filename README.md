@@ -1,4 +1,4 @@
-# EXPT NO.3 IMPLEMENTATION OF LINK STATE ROUTING PROTOCOL OSPF
+<img width="1006" height="617" alt="image" src="https://github.com/user-attachments/assets/f89b3f35-cbab-48e0-8a8b-44cdb24ed185" /># EXPT NO.3 IMPLEMENTATION OF LINK STATE ROUTING PROTOCOL OSPF
 # AIM
 
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
@@ -8,6 +8,7 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 # IP ASSIGNMENT
 
 # NETWORK DIAGRAM
+<img width="1006" height="617" alt="image" src="https://github.com/user-attachments/assets/7a7e4566-81a4-43e8-a6cb-3450fcd8722b" />
 
 
 # PROCEDURE
@@ -22,6 +23,7 @@ STEP 10: Verify the connectivity between PC Terminals in different networks usin
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
+<img width="940" height="620" alt="image" src="https://github.com/user-attachments/assets/0b39fc86-dc90-4d09-9f9f-9c4e2fd4f95c" />
 
 
 
